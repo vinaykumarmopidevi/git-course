@@ -10,3 +10,9 @@ git init
 	On branch master
 git init -b main
 	On branch main
+
+Staging area
+git add .\git_commands.txt
+git rm --cached .\git_commands.txt
+
+git commit -m "my first commit" 
