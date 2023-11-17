@@ -19,3 +19,5 @@ git commit -m "my first commit"
 git commit -a -m "my first commit" 
 git diff
 git diff --staged
+
+git add .
