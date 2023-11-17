@@ -25,3 +25,8 @@ git diff
 git diff --staged
 
 git add .
+
+******push an existing repository from the command line******
+git remote add origin https://github.com/vinaykumarmopidevi/git-course.git
+git branch -M main
+git push -u origin main
