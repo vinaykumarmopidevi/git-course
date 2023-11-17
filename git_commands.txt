@@ -36,3 +36,7 @@ ssh-keygen -o
 
 git push origin main
 //origin --> git@github.com:vinaykumarmopidevi/git-course.git
+
+git remote -v
+origin  https://github.com/vinaykumarmopidevi/git-course.git (fetch)  //server to client
+origin  https://github.com/vinaykumarmopidevi/git-course.git (push)   //client to server
