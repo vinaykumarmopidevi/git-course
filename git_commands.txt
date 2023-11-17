@@ -35,3 +35,4 @@ git push -u origin main
 ssh-keygen -o 
 
 git push origin main
+//origin --> git@github.com:vinaykumarmopidevi/git-course.git
