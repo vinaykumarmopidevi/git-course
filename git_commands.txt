@@ -30,3 +30,8 @@ git add .
 git remote add origin https://github.com/vinaykumarmopidevi/git-course.git
 git branch -M main
 git push -u origin main
+
+
+ssh-keygen -o 
+
+git push origin main
