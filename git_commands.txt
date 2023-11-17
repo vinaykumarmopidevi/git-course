@@ -1,0 +1,12 @@
+git --version
+git config --global --list
+
+git config --global user.name "vinay"
+git config --global user.email "vinay.mopidevi@gmail.com"
+
+
+git status
+git init
+	On branch master
+git init -b main
+	On branch main
