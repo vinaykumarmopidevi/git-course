@@ -40,3 +40,8 @@ git push origin main
 git remote -v
 origin  https://github.com/vinaykumarmopidevi/git-course.git (fetch)  //server to client
 origin  https://github.com/vinaykumarmopidevi/git-course.git (push)   //client to server
+
+git checkout -b feature1 // create and switch to a new branch
+git checkout feature1 // switch to a new branch
+
+git swith -c feature2
