@@ -72,3 +72,8 @@ git branch -d <branchname> //delete from local
 git push -d <remote_name> <branchname> // delete from remote
 
 git push origin feature1 //push to remote 
+
+Git merge - pulls in the latest changes from main into the feature branch
+Creating a new merge commit in the process.its like tying the two branches together with a knot
+
+Git Rebase - reapllies commits on top of another base tip
