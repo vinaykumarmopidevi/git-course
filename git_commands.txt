@@ -40,3 +40,14 @@ git push origin main
 git remote -v
 origin  https://github.com/vinaykumarmopidevi/git-course.git (fetch)  //server to client
 origin  https://github.com/vinaykumarmopidevi/git-course.git (push)   //client to server
+
+//anototed
+git tag -a v1.0 -m "1st realse"
+git tag
+
+git push origin v1.0
+
+git log --pretty=oneline
+
+git checkout -b "feature1" //create and Switched to a new branch 'feature1'
+
