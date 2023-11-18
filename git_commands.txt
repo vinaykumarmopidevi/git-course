@@ -44,4 +44,7 @@ origin  https://github.com/vinaykumarmopidevi/git-course.git (push)   //client t
 git checkout -b feature1 // create and switch to a new branch
 git checkout feature1 // switch to a new branch
 
-git swith -c feature2
+git switch -c feature2 // create and switch to a new branch
+ git switch "feature1" // switch to a new branch
+ git switch - //switch to previous branch
+  git branch --all
