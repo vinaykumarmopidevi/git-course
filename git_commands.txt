@@ -79,3 +79,6 @@ Creating a new merge commit in the process.its like tying the two branches toget
 Git Rebase - reapllies commits on top of another base tip
 
 git marge feature1
+
+
+git pull origin main
