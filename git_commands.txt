@@ -50,4 +50,11 @@ git push origin v1.0
 git log --pretty=oneline
 
 git checkout -b "feature1" //create and Switched to a new branch 'feature1'
+git checkout feature1 // switch to a new branch
 
+git switch -c feature2 // create and switch to a new branch
+ git switch "feature1" // switch to a new branch
+ git switch - //switch to previous branch
+  git branch --all
+  
+  git branch -d branch_name 
