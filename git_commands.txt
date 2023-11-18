@@ -67,5 +67,8 @@ git push origin branch_name
 git checkout main
 git branch -d branch_name
 
-git push -d <remote_name> <branchname> // delete from remote
+
 git branch -d <branchname> //delete from local
+git push -d <remote_name> <branchname> // delete from remote
+
+git push origin feature1 //push to remote 
