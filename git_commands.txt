@@ -57,4 +57,12 @@ git switch -c feature2 // create and switch to a new branch
  git switch - //switch to previous branch
   git branch --all
   
-  git branch -d branch_name 
+  git branch -d feature2 
+
+  error: The branch 'feature2' is not fully merged.
+git checkout main
+git merge branch_name
+git checkout branch_name
+git push origin branch_name
+git checkout main
+git branch -d branch_name
