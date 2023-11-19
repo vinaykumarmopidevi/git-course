@@ -82,3 +82,5 @@ git marge feature1
 
 
 git pull origin main
+
+git remote set-url origin https://github.com/vinaykumarmopidevi/interview-coding-questions.git
